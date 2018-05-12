@@ -1,4 +1,8 @@
 _repo: The-Forest-Farm-Tales-of-the-Austrian-Tyrol_47533
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47533-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosegger, Peter
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7090
     wikipedia: http://en.wikipedia.org/wiki/Peter_Rosegger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47533#The-Forest-Farm-Tales-of-the-Austrian-Tyrol
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
